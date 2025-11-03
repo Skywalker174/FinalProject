@@ -2,7 +2,7 @@ Fire & Water — A Two‑Character Co‑op Puzzle‑Platformer
 A WebGPU capstone for CSCI 379 (Spring 2025)
 
 PLAY THE GAME
-https://inicucausecrushedbykiriko.github.io/FinalProject/
+https://titusweng.github.io/FinalProject/
 
 WHY THIS PROJECT MATTERS
 Our game project is an attempt to reproduce the traditional game fireboy and watergirl on the webgpu. This attempt demonstrates that a modern, visually rich, real‑time game can run in the browser on top of raw WebGPU with no external 3‑D engine. Two elemental siblings must cooperate to leave a four‑storey laboratory, timing jumps, operating lifts and retractable bridges, and avoiding pools of the element that kills them. The game shows how far open‑web graphics and vanilla JavaScript have come.
@@ -14,7 +14,7 @@ Development workflow relies on Vite for hot‑reload and ESLint for static check
 
 RUNNING THE GAME LOCALLY
 
-git clone https://github.com/inicucausecrushedbykiriko/FinalProject
+git clone https://github.com/titusweng/FinalProject
 run the simple_server.py, and server starts on http://localhost:8087
 
 Chrome or Edge (or later) are required, with the WebGPU flag enabled.
@@ -38,7 +38,7 @@ VIDEO DEMO
 The video is inside the assets/Demo.mp4
 
 
-https://github.com/user-attachments/assets/e659c8c1-c19e-434b-8991-ff19987b82a2
+https://.com/user-attachments/assets/e659c8c1-c19e-434b-8991-ff19987b82a2
 
 
 
